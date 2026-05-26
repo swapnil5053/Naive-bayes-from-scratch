@@ -4,7 +4,7 @@ A from-scratch implementation of Multinomial Naive Bayes for classifying sentenc
 
 ## Overview
 
-This project classifies sentences from medical research abstracts into their structural roles (Background, Methods, Results, etc.). Originally a machine learning lab assignment, it has been extended with scikit-learn compatibility, explainability features, and a command-line interface.
+This lab program classifies sentences from medical research abstracts into their structural roles (Background, Methods, Results, etc.). Originally a machine learning lab assignment, it has been extended with scikit-learn compatibility, explainability features, and a command-line interface.
 
 ## Dataset
 
