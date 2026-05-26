@@ -122,6 +122,3 @@ predictions = model.predict(X_test)
 | OBJECTIVE | 0.52 | 0.53 | 0.52 |
 | RESULTS | 0.88 | 0.78 | 0.83 |
 
-## License
-
-MIT License
